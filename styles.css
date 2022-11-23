@@ -257,7 +257,7 @@ text-align: center;
     }
     .navigation-manual{
      
-      margin-left: -40px;
+      margin-left: -70px;
     }
       }
 
@@ -421,7 +421,9 @@ font-size: 75px;
   background-color: red;
 }
 
-
+input {
+  padding: 10px;
+}
 
 
 
